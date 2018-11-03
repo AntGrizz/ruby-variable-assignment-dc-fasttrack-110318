@@ -5,5 +5,5 @@
 # puts student1
 # puts student2
 # puts student3
-studentages [25, 32, 33]
+studentages = [25, 32, 33]
 puts studentages
