@@ -3,5 +3,6 @@
 greeting = "Hello World"
 h = "hello World"
 r = 2
-puts r
-puts h
+
+bool = true
+puts bool
