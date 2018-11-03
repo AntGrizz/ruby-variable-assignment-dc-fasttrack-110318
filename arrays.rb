@@ -9,7 +9,7 @@
 # puts studentages
 def printstudentnames
   studentnames = ["Ann", "Jakes", "Josh"]
-  puts studentnames
+  puts studentnames[1]
 end
 
 printstudentnames
